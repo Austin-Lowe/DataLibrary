@@ -34,6 +34,15 @@
     <Reference Include="Dapper, Version=1.60.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\repos\packages\Dapper.1.60.6\lib\net451\Dapper.dll</HintPath>
     </Reference>
+    <Reference Include="LiteGuard, Version=2.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\LiteGuard.2.2.0\lib\netstandard2.0\LiteGuard.dll</HintPath>
+    </Reference>
+    <Reference Include="PrimS.Telnet.NetStandard, Version=0.8.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Telnet.0.8.3\lib\net451\PrimS.Telnet.NetStandard.dll</HintPath>
+    </Reference>
+    <Reference Include="Renci.SshNet, Version=2016.1.0.0, Culture=neutral, PublicKeyToken=1cee9f8bde3db106, processorArchitecture=MSIL">
+      <HintPath>packages\SSH.NET.2016.1.0\lib\net40\Renci.SshNet.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
@@ -45,6 +54,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataAccess\CISCO.cs" />
+    <Compile Include="DataAccess\HPProcurve.cs" />
     <Compile Include="DataAccess\SQLDataAccess.cs" />
     <Compile Include="Logic\PortProcessor.cs" />
     <Compile Include="Models\PortModel.cs" />
@@ -54,6 +65,8 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="License.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

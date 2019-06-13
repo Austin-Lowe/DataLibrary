@@ -7,3 +7,11 @@ C:\Users\theGANOUSH\source\DataLibrary\obj\Debug\DataLibrary.pdb
 C:\Users\theGANOUSH\source\DataLibrary\bin\Debug\Dapper.dll
 C:\Users\theGANOUSH\source\DataLibrary\bin\Debug\Dapper.xml
 C:\Users\theGANOUSH\source\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\austin.lowe\source\repos\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\austin.lowe\source\repos\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\austin.lowe\source\repos\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\austin.lowe\source\repos\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\austin.lowe\source\repos\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\austin.lowe\source\repos\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\austin.lowe\source\repos\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\austin.lowe\source\repos\DataLibrary\obj\Debug\DataLibrary.pdb
