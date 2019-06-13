@@ -58,6 +58,7 @@
     <Compile Include="DataAccess\HPProcurve.cs" />
     <Compile Include="DataAccess\SQLDataAccess.cs" />
     <Compile Include="Logic\PortProcessor.cs" />
+    <Compile Include="Logic\SwitchProcessor.cs" />
     <Compile Include="Models\PortModel.cs" />
     <Compile Include="Models\SwitchModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
